@@ -1,0 +1,15 @@
+{
+  "name": "draw2gether",
+  "version": "1.0.0",
+  "description": "draw something with broswer to broswer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PLaTanate",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1",
+    "socket.io": "^1.3.5"
+  }
+}
